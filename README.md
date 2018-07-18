@@ -1,5 +1,6 @@
 # Cookie Clicker 🍪
-This game is a version based on cookie clicker.
+This game is based on cookie clicker.
+
 The Original game can be found here: [Cookie Clicker](http://orteil.dashnet.org/cookieclicker/)
 
 # License
